@@ -1,0 +1,5 @@
+/home/nato/Documents/CSharp/DisposePattern/obj/Debug/net7.0/DisposePattern.csproj.AssemblyReference.cache
+/home/nato/Documents/CSharp/DisposePattern/obj/Debug/net7.0/DisposePattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/nato/Documents/CSharp/DisposePattern/obj/Debug/net7.0/DisposePattern.AssemblyInfoInputs.cache
+/home/nato/Documents/CSharp/DisposePattern/obj/Debug/net7.0/DisposePattern.AssemblyInfo.cs
+/home/nato/Documents/CSharp/DisposePattern/obj/Debug/net7.0/DisposePattern.csproj.CoreCompileInputs.cache
